@@ -1,0 +1,6 @@
+{
+  "name": "بوابة المخابرات العامة - رصد المطلوبين",
+  "description": "النظام الرقمي لقطاع المخابرات العامة للبحث والمتابعة الأمنية للمطلوبين ورصد العصابات الإجرامية المنظمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
